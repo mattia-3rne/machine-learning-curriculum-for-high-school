@@ -1,4 +1,4 @@
-# High School Machine Learning Curriculum
+# From Basics to Applications: <br> A Machine Learning Curriculum for High School
  
 
 
