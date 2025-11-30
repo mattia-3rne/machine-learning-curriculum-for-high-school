@@ -98,8 +98,8 @@ $$P'(w) = \frac{e^{\log{(P(w))}/T}}{\sum e^{\log{(P(w_i))}/T}}$$
 
 ## 📂 Project Structure
 
+* `decision_tree_classification.ipynb`: Decision Tree Classification.
 * `naive_bayes_text_prediction.ipynb`: Naive Bayes text prediction.
-* `decision_tree_classifier.ipynb`: Decision Tree Classifier.
 * `k_means_clustering.ipynb`: k-Means Clustering.
 * `linear_regression.ipynb`: Linear Regression.
 * `requirements.txt`: Python dependencies.
