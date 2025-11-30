@@ -57,7 +57,7 @@ $$\mu_j = \frac{1}{n} \sum x_i$$
 
 ---
 
-## 4. 📝 Naive Bayes Text Prediction: Next Word Generator
+## 📝 Naive Bayes Text Prediction: Next Word Generator
 
 ### Overview
 This program uses a **Naive Bayes** model to generate text in the style of Shakespeare. It calculates the probability of the next word occurring based on the current word, using temperature scaling to adjust creativity.
