@@ -83,7 +83,7 @@ $$P'(w) = \frac{e^{\log{(P(w))}/T}}{\sum e^{\log{(P(w_i))}/T}}$$
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/mattia-3rne/Machine-Learning-Curriculum-for-High-School.git
+    git clone https://github.com/mattia-3rne/machine-learning-curriculum-for-high-school.git
     ```
 
 2.  **Install Dependencies:**
